@@ -127,7 +127,7 @@
 | decision tree |gradient boosting|
 
 ### 5. 예측
-- #### 이탈률 비교
+#### 이탈률 비교
 •	 Test Data 에 대한 이탈률 예측 비교 <br>
 • 실제 데이터를 가지고 도출한 이탈률 : 16.29% <br>
 • 예측 데이터를 가지고 도출한 이탈률 : 15.60% <br>
@@ -137,19 +137,19 @@
 
 #### 모델 구현 후 Feature Importance 를 확인했을 때, 제일 중요한 column 이었던 <br>
 Tenure, Complain, CashbackAmount 에 대한 이탈률 확인
-#### Tenure
+- #### Tenure
 |![ten](./images/ten.png) | 
 |:-------------------------------------:|
 |61개월 이상 가입했던 고객과, 0개월~1개월 의 가입기간을 가지는 고객의 이탈률이 높음. <br>
 장기 가입 고객 및 신규 가입 고객이 지속적으로 이용할 수 있는 마케팅 전략이 필요하다고 판단됨.|
 
-#### Complain
+- #### Complain
 |![com](./images/com.png) | 
 |:-------------------------------------:|
 |complain 을 낸 사람들의 이탈률이 높음을 알 수 있음.<br>
 complain 고객의 관리 전략이 필요하다고 판단됨.|
 
-#### CashbackAmount
+- #### CashbackAmount
 |![cash](./images/cash.png) | 
 |:-------------------------------------:|
 |지난달에 고객들이 얼마나 Cashback 을 받았는지에 대한 지표 <br>
