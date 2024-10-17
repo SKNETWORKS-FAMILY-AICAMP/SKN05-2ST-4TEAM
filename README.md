@@ -60,9 +60,9 @@
 
 ### 2. EDA
 ![output](./images/output.png)
-![pie](./images/pie.png)
-![bar](./images/bar.png)
-![box](./images/box.png)
+![pie](./images/PIE.png)
+![bar](./images/BAR.png)
+![box](./images/BOX.png)
  
 ### 8. 한 줄 회고
 <hr>
