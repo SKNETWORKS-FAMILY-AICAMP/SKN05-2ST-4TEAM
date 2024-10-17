@@ -60,7 +60,7 @@
 
 ### 2. EDA
 
-| ![output](./images/output.png) |![pie](./images/PIE.png) |
+| <img src="./images/output.png" alt="ouput" width="400" height="300") |![pie](./images/PIE.png) |
 |:-----------------------------------:|:-------------------------------------:|
 | 변수당 고유값 수 | 변수당 고유값 비율 |
 
