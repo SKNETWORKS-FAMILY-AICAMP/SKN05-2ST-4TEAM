@@ -112,6 +112,7 @@
 | ![borderlinesmote](./images/borderlinesmote.png) | 
 
 #### 2차 성능 개선
+![gridsearchcv](./images/gridsearchcv.png) 
 
 #### 최종 모델 분석
 | ![최종모델1](./images/최종모델_1.png) | 
