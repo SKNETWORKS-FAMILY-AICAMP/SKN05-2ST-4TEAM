@@ -16,5 +16,7 @@
 ### 1. 프로젝트 개요
 <hr>
 <div>
-<img src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202204/14/e41ef02b-f4f7-453c-b7fd-fa5e96707d7a.jpg"> :  웹 대시보드 프레임워크 (데이터 시각화 및 조회 시스템)
+<img src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202204/14/e41ef02b-f4f7-453c-b7fd-fa5e96707d7a.jpg"> 
+이커머스 시장은 폭발적인 성장 속에 경쟁이 치열해지고 있습니다. 소비자들은 다양한 선택지를 가지고 있기 때문에, 고객 이탈은 큰 손실로 이어질 수 있습니다. 
+  시장 규모가 커질수록 고객 유지의 중요성은 더욱 커지며, 이탈 예측은 이를 해결할 핵심 도구로 떠오릅니다. 맞춤형 서비스 제공과 충성도 유지를 위해 고객 이탈 예측은 필수적입니다.
 </div> 
