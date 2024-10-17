@@ -59,7 +59,7 @@
  
 
 ### 2. EDA
-![output](./imeges/output.png)
+![output](./images/output.png)
  
 ### 8. 한 줄 회고
 <hr>
