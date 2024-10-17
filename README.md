@@ -104,12 +104,18 @@
 
 #### 초기 성능 확인
 ![초기성능](./images/초기성능.png) 
+
 #### 1차 성능 개선
+![oversampling](./images/oversampling.png) 
+![smote](./images/smote.png) 
+![borderlinesmote](./images/borderlinesmote.png) 
+
 #### 2차 성능 개선
+
 #### 최종 모델 분석
-| ![최종모델1](./images/최종모델1.png) |
-|:-----------------------------------:|
-|![최종모델2](./images/최종모델2.png) |
+ ![최종모델1](./images/최종모델1.png) 
+
+![최종모델2](./images/최종모델2.png) 
 
 ### 5. 예측
 
