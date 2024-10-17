@@ -53,16 +53,13 @@
 <br><br>
 
 
-
-
-
-
-
-
 ## 기술 스택
  <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white"/></a>
  <img src="https://img.shields.io/badge/streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/></a>
+ 
 
+### 2. EDA
+<img src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202204/14/e41ef02b-f4f7-453c-b7fd-fa5e96707d7a.jpg"> 
  
 ### 8. 한 줄 회고
 <hr>
