@@ -117,15 +117,15 @@
 |:-------------------------------------:|
 
 #### 최종 모델 분석
-| ![output](./images/output.png) |![pie](./images/PIE.png) | 
+| ![adaboost](./images/adaboost.png) |![xgboost](./images/xgboost.png) | 
 |:-----------------------------------:|:-------------------------------------:|
-| 1 | 2 |
-| ![output](./images/output.png) |![pie](./images/PIE.png) | 
-| 3 |4 |
-| ![output](./images/output.png) |![pie](./images/PIE.png) | 
-|5 |6 |
-| ![output](./images/output.png) |![pie](./images/PIE.png) | 
-| 7 |8|
+| adaboost | xgboost |
+| ![mlp](./images/mlp.png) |![catboost](./images/catboost.png) | 
+| mlp | catboost |
+| ![logi](./images/logi.png) |![rf](./images/rf.png) | 
+|logi |rf |
+| ![dt](./images/dt.png) |![gb](./images/gb.png) | 
+| dt |gb|
 
 ### 5. 예측 및 결론
 
