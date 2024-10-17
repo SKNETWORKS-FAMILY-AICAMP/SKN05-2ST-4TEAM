@@ -94,10 +94,9 @@
 #### 스케일러
 |CustomerID |CityTier |WarehouseToHome | 
 |:-----------------------------------:|:-------------------------------------:|:-----------------------------------:|
-
 |HourSpendOnApp |NumberOfDeviceRegistered| SatisfactionScore | 
 | NumberOfAddress |Complain |CouponUsed | 
-| |열을 데이터 프레임에서 제거 | CashbackAmount | 
+| OrderCount |DaySinceLastOrder | CashbackAmount | 
 
 
 
