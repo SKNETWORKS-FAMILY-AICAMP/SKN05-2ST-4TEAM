@@ -91,7 +91,7 @@
 | PreferedOrderCat   |0 ~ 5 |
 | MaritalStatus   |0 ~ 2 |
 
-#### 스케일러
+#### 스케일러한 변수
 |CustomerID |CityTier |WarehouseToHome | 
 |:-----------------------------------:|:-------------------------------------:|:-----------------------------------:|
 |HourSpendOnApp |NumberOfDeviceRegistered| SatisfactionScore | 
