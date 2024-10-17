@@ -123,9 +123,9 @@
 | ![mlp](./images/mlp.png) |![catboost](./images/catboost.png) | 
 | mlp | catboost |
 | ![logi](./images/logi.png) |![rf](./images/rf.png) | 
-|logi |rf |
+|logistic regression |randomforest |
 | ![dt](./images/dt.png) |![gb](./images/gb.png) | 
-| dt |gb|
+| decision tree |gradient boosting|
 
 ### 5. 예측 및 결론
 
