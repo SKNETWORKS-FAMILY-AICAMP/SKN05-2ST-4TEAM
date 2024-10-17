@@ -126,6 +126,8 @@
 | ![dt](./images/dt.png) |![gb](./images/gb.png) | 
 | decision tree |gradient boosting|
 
+• 모델들을 비교해 봤을 떄 Tenure, Complain, CashbackAmount 총 세 변수가 중요하다고 판단 
+
 ### 5. 예측
 #### 이탈률 비교
 •	 Test Data 에 대한 이탈률 예측 비교 <br>
@@ -135,8 +137,7 @@
 | ![이탈률](./images/이탈률.png) |![이탈률수치](./images/이탈률수치.png) | 
 |:-----------------------------------:|:-------------------------------------:|
 
-#### 모델 구현 후 Feature Importance 를 확인했을 때, 제일 중요한 column 이었던 <br>
-Tenure, Complain, CashbackAmount 에 대한 이탈률 확인
+#### Tenure, Complain, CashbackAmount 에 대한 이탈률 확인
 - #### Tenure
 |![ten](./images/ten.png) | 
 |:-------------------------------------:|
