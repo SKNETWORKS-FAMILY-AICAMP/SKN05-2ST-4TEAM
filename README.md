@@ -1,6 +1,6 @@
 # SKN05-2ND-4TEAM
-## 📈2차 프로젝트
- SK Networks AI CAMP 5기<br>
+
+### 📈2차 프로젝트 SK Networks AI CAMP 5기<br>
  개발기간: 2024.10.16-10.17
 
    ## 💻팀 소개
