@@ -59,10 +59,18 @@
  
 
 ### 2. EDA
-![output](./images/output.png)
-![pie](./images/PIE.png)
-![bar](./images/BAR.png)
-![box](./images/BOX.png)
+
+| ![output](./images/output.png) |![pie](./images/PIE.png) |
+|:-----------------------------------:|:-------------------------------------:|
+| 변수당 고유값 수 | 변수당 고유값 비율 |
+
+
+| ![bar](./images/BAR.png) | ![box](./images/BOX.png) |
+|:-----------------------------------:|:-------------------------------------:|
+| 변수당 고유값에 따른 이탈률 | Boxplot |
+
+
+
  
 ### 8. 한 줄 회고
 <hr>
