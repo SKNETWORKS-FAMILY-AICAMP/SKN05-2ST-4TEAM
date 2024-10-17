@@ -101,21 +101,21 @@
 
 ### 4. 모델링 & 하이퍼 파라메터 튜닝
 
-#### 초기 성능 확인
+- #### 초기 성능 확인
 | ![초기성능](./images/초기성능.png) | 
 |:-------------------------------------:|
 
-#### 1차 성능 개선
+- #### 1차 성능 개선
 | ![oversampling](./images/oversampling.png) | 
 |:-------------------------------------:|
 | ![smote](./images/smote.png) | 
 | ![borderlinesmote](./images/borderlinesmote.png) | 
 
-#### 2차 성능 개선
+- #### 2차 성능 개선
 | ![gridsearchcv](./images/gridsearchcv.png) | 
 |:-------------------------------------:|
 
-#### 최종 모델 분석
+- #### 최종 모델 분석
 | ![adaboost](./images/adaboost.png) |![xgboost](./images/xgboost.png) | 
 |:-----------------------------------:|:-------------------------------------:|
 | adaboost | xgboost |
@@ -127,7 +127,7 @@
 | decision tree |gradient boosting|
 
 ### 5. 예측
-#### 이탈률 비교
+- #### 이탈률 비교
 •	 Test Data 에 대한 이탈률 예측 비교 <br>
 • 실제 데이터를 가지고 도출한 이탈률 : 16.29% <br>
 • 예측 데이터를 가지고 도출한 이탈률 : 15.60% <br>
