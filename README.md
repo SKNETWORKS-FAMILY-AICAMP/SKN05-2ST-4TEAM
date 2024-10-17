@@ -103,7 +103,7 @@
 ### 4. 모델링 & 하이퍼 파라메터 튜닝
 
 #### 초기 성능 확인
-![초기성능](./images/초기성능.png) 
+| ![초기성능](./images/초기성능.png) | 
 
 #### 1차 성능 개선
 | ![oversampling](./images/oversampling.png) | 
@@ -112,7 +112,7 @@
 | ![borderlinesmote](./images/borderlinesmote.png) | 
 
 #### 2차 성능 개선
-![gridsearchcv](./images/gridsearchcv.png) 
+| ![gridsearchcv](./images/gridsearchcv.png) | 
 
 #### 최종 모델 분석
 | ![최종모델1](./images/최종모델_1.png) | 
