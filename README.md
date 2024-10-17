@@ -18,6 +18,7 @@
 <hr>
 <div>
 <blockquote>
+ <br>
  <img src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202204/14/e41ef02b-f4f7-453c-b7fd-fa5e96707d7a.jpg">
 <br> 이커머스 시장은 폭발적인 성장 속에 경쟁이 치열해지고 있습니다. 
  <br>소비자들은 다양한 선택지를 가지고 있기 때문에, 고객 이탈은 큰 손실로 이어질 수 있습니다. 
