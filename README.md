@@ -59,7 +59,7 @@
  
 
 ### 2. EDA
-<img src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202204/14/e41ef02b-f4f7-453c-b7fd-fa5e96707d7a.jpg"> 
+![output](./imeges/output.png)
  
 ### 8. 한 줄 회고
 <hr>
