@@ -82,11 +82,11 @@
 | MaritalStatus   |0 ~ 2 |
 
 - #### 스케일링한 변수
-|CustomerID |CityTier |WarehouseToHome | 
+|CashbackAmount |CityTier |WarehouseToHome | 
 |:-----------------------------------:|:-------------------------------------:|:-----------------------------------:|
 |HourSpendOnApp |NumberOfDeviceRegistered| SatisfactionScore | 
 | NumberOfAddress |Complain |CouponUsed | 
-| OrderCount |DaySinceLastOrder | CashbackAmount | 
+| OrderCount |DaySinceLastOrder |   | 
 
 
 
